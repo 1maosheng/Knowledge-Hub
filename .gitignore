@@ -1,0 +1,19 @@
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.data/
+.uv-cache/
+# node
+node_modules/
+web/dist/
+.npm-cache/
+# env & logs
+.env
+.env.local
+.logs/
+eval/report.json
+.git-token
+.docker/

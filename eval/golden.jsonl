@@ -1,0 +1,50 @@
+{"id": "q01", "question": "一线城市住宿每晚的报销上限是多少？", "doc": "01-travel-expense.md", "type": "table", "keywords": ["600"]}
+{"id": "q02", "question": "二线城市住宿标准是多少钱一晚？", "doc": "01-travel-expense.md", "type": "table", "keywords": ["450"]}
+{"id": "q03", "question": "其他城市的住宿报销上限是多少？", "doc": "01-travel-expense.md", "type": "table", "keywords": ["350"]}
+{"id": "q04", "question": "连续出差超过 7 天，住宿标准有什么变化？", "doc": "01-travel-expense.md", "type": "fact", "keywords": ["10%"]}
+{"id": "q05", "question": "出差坐高铁可以报销什么座位？", "doc": "01-travel-expense.md", "type": "fact", "keywords": ["二等座"]}
+{"id": "q06", "question": "飞机经济舱需要提前几天预订？", "doc": "01-travel-expense.md", "type": "fact", "keywords": ["3天"]}
+{"id": "q07", "question": "差旅费用必须在行程结束后多少天内提交报销？", "doc": "01-travel-expense.md", "type": "fact", "keywords": ["30天"]}
+{"id": "q08", "question": "报销金额 5000 元以下由谁审批？", "doc": "01-travel-expense.md", "type": "fact", "keywords": ["直属主管"]}
+{"id": "q09", "question": "超过 20000 元的报销需要谁复核？", "doc": "01-travel-expense.md", "type": "fact", "keywords": ["李娜"]}
+{"id": "q10", "question": "单笔超过 50000 元的差旅支出需要谁审批？", "doc": "01-travel-expense.md", "type": "fact", "keywords": ["总经理"]}
+{"id": "q11", "question": "发票丢失了还能报销吗，需要什么材料？", "doc": "01-travel-expense.md", "type": "fact", "keywords": ["开票方", "银行"]}
+{"id": "q12", "question": "境外差旅需要提前几个工作日报财务备案？", "doc": "01-travel-expense.md", "type": "fact", "keywords": ["5个工作日"]}
+{"id": "q13", "question": "5 万元以下的小额采购由谁审批？", "doc": "02-procurement.md", "type": "fact", "keywords": ["部门负责人"]}
+{"id": "q14", "question": "50 万元以上的重大采购需要经过什么流程？", "doc": "02-procurement.md", "type": "fact", "keywords": ["采购委员会", "总经理"]}
+{"id": "q15", "question": "单一供应商采购占比原则上不能超过多少？", "doc": "02-procurement.md", "type": "fact", "keywords": ["40%"]}
+{"id": "q16", "question": "供应商年度考评低于 70 分会怎么处理？", "doc": "02-procurement.md", "type": "fact", "keywords": ["暂停合作", "整改"]}
+{"id": "q17", "question": "合同金额超过 100 万元需要什么级别的审批？", "doc": "02-procurement.md", "type": "fact", "keywords": ["总经理办公会"]}
+{"id": "q18", "question": "合同付款的 3-6-1 结构具体是什么？", "doc": "02-procurement.md", "type": "fact", "keywords": ["30%", "60%", "10%"]}
+{"id": "q19", "question": "预付款比例超过 30% 需要提供什么？", "doc": "02-procurement.md", "type": "fact", "keywords": ["银行保函"]}
+{"id": "q20", "question": "收到合规发票后多少个工作日内完成付款？", "doc": "02-procurement.md", "type": "fact", "keywords": ["15个工作日"]}
+{"id": "q21", "question": "采购合同及验收材料需要保存多少年？", "doc": "02-procurement.md", "type": "fact", "keywords": ["10年"]}
+{"id": "q22", "question": "采购物资交付后多久内要组织验收？", "doc": "02-procurement.md", "type": "fact", "keywords": ["10个工作日"]}
+{"id": "q23", "question": "P1 特别重大安全事件影响多少用户？", "doc": "03-security-incident.md", "type": "fact", "keywords": ["10万"]}
+{"id": "q24", "question": "P1 安全事件必须在多长时间内电话报告 CISO？", "doc": "03-security-incident.md", "type": "fact", "keywords": ["15分钟"]}
+{"id": "q25", "question": "P2 安全事件需要多长时间内报告？", "doc": "03-security-incident.md", "type": "fact", "keywords": ["30分钟"]}
+{"id": "q26", "question": "P3 安全事件应在几小时内报告？", "doc": "03-security-incident.md", "type": "fact", "keywords": ["4小时"]}
+{"id": "q27", "question": "确认发生个人信息泄露后，多久内向监管部门报告？", "doc": "03-security-incident.md", "type": "fact", "keywords": ["72小时"]}
+{"id": "q28", "question": "安全事件对外披露由哪些部门联合审批？", "doc": "03-security-incident.md", "type": "fact", "keywords": ["品牌部", "法务部"]}
+{"id": "q29", "question": "每年组织几次桌面演练和实战演练？", "doc": "03-security-incident.md", "type": "fact", "keywords": ["两次", "一次"]}
+{"id": "q30", "question": "安全事件关闭后多久内完成复盘报告？", "doc": "03-security-incident.md", "type": "fact", "keywords": ["5个工作日"]}
+{"id": "q31", "question": "安全整改项必须在多少天内闭环？", "doc": "03-security-incident.md", "type": "fact", "keywords": ["30天"]}
+{"id": "q32", "question": "主动上报并阻止事件扩大的员工能获得多少奖励？", "doc": "03-security-incident.md", "type": "fact", "keywords": ["2000", "10000"]}
+{"id": "q33", "question": "常规版本发布的窗口是每周哪几天？", "doc": "04-release-process.md", "type": "fact", "keywords": ["周二", "周四"]}
+{"id": "q34", "question": "重大版本需要提前几个工作日提交发布计划？", "doc": "04-release-process.md", "type": "fact", "keywords": ["3个工作日"]}
+{"id": "q35", "question": "A 级核心链路变更需要谁签字？", "doc": "04-release-process.md", "type": "fact", "keywords": ["技术负责人", "产品负责人"]}
+{"id": "q36", "question": "灰度发布时先向内部员工放量多少比例，观察多久？", "doc": "04-release-process.md", "type": "fact", "keywords": ["5%", "30分钟"]}
+{"id": "q37", "question": "灰度期间错误率超过多少要停止放量？", "doc": "04-release-process.md", "type": "fact", "keywords": ["1%"]}
+{"id": "q38", "question": "P95 延迟超过基线多少需要停止放量？", "doc": "04-release-process.md", "type": "fact", "keywords": ["50%"]}
+{"id": "q39", "question": "满足回滚条件后必须在多长时间内完成回滚？", "doc": "04-release-process.md", "type": "fact", "keywords": ["10分钟"]}
+{"id": "q40", "question": "全量发布后需要重点观察多长时间？", "doc": "04-release-process.md", "type": "fact", "keywords": ["2小时"]}
+{"id": "q41", "question": "发布总结需要在发布后多久内完成？", "doc": "04-release-process.md", "type": "fact", "keywords": ["24小时"]}
+{"id": "q42", "question": "每周 Hotfix 超过几次的团队要提交稳定性专项报告？", "doc": "04-release-process.md", "type": "fact", "keywords": ["3次"]}
+{"id": "q43", "question": "住宿费超出标准的部分由谁承担？", "doc": "01-travel-expense.md", "type": "fact", "keywords": ["个人"]}
+{"id": "q44", "question": "没有提前审批的差旅费用还能报销吗？", "doc": "01-travel-expense.md", "type": "fact", "keywords": ["2个工作日", "补办"]}
+{"id": "q45", "question": "P1 事件必须在 15 分钟内电话报告给谁？", "doc": "03-security-incident.md", "type": "fact", "keywords": ["CISO"]}
+{"id": "q46", "question": "员工每年有多少天年假？", "doc": null, "type": "refusal", "keywords": []}
+{"id": "q47", "question": "公司的股票代码是多少？", "doc": null, "type": "refusal", "keywords": []}
+{"id": "q48", "question": "办公室停车位怎么申请？", "doc": null, "type": "refusal", "keywords": []}
+{"id": "q49", "question": "2024 年公司的营业收入是多少？", "doc": null, "type": "refusal", "keywords": []}
+{"id": "q50", "question": "公司总部大楼一共有几层？", "doc": null, "type": "refusal", "keywords": []}
